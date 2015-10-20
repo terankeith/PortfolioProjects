@@ -14,7 +14,10 @@ namespace FlooringProgram.Data.TaxRates
         {
             return new List<TaxRate>()
             {
-                new TaxRate() {State = "OH", TaxPercent = 0.10M}
+                new TaxRate() {State = "OH", TaxPercent = 6.25M},
+                new TaxRate() {State = "PA", TaxPercent = 6.75M},
+                new TaxRate() {State = "MI", TaxPercent = 5.75M},
+                new TaxRate() {State = "IN", TaxPercent = 6.00M}
             };
         }
     }

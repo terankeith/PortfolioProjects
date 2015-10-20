@@ -13,3 +13,13 @@ C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\bin\Deb
 C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache
 C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
 C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb
+C:\MyMastery\mastery-project\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.dll
+C:\MyMastery\mastery-project\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.pdb
+C:\MyMastery\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache
+C:\MyMastery\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
+C:\MyMastery\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb
+C:\PortfolioProjects\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.dll
+C:\PortfolioProjects\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.pdb
+C:\PortfolioProjects\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache
+C:\PortfolioProjects\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
+C:\PortfolioProjects\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb

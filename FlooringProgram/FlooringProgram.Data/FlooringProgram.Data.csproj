@@ -44,6 +44,7 @@
     <Compile Include="OrderRepos\OrderFileRepo.cs" />
     <Compile Include="OrderRepos\OrderRepoFactory.cs" />
     <Compile Include="OrderRepos\OrderTestRepo.cs" />
+    <Compile Include="ProductRepos\ProductFileRepo.cs" />
     <Compile Include="ProductRepos\ProductRepoFactory.cs" />
     <Compile Include="ProductRepos\ProductTestRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

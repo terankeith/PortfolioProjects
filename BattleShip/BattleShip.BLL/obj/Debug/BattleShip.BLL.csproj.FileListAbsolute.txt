@@ -1,0 +1,15 @@
+C:\Users\CodeCamp\Documents\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\CodeCamp\Documents\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\CodeCamp\Documents\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\CodeCamp\Documents\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\Users\CodeCamp\Documents\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\CodeCamp\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\CodeCamp\BattleShip_Start\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\CodeCamp\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\CodeCamp\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\CodeCamp\BattleShip_Start\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
+C:\PortfolioProjects\BattleShip\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\PortfolioProjects\BattleShip\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\PortfolioProjects\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojResolveAssemblyReference.cache
+C:\PortfolioProjects\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\PortfolioProjects\BattleShip\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

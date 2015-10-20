@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MenuOps.cs" />
     <Compile Include="OrderOps.cs" />
     <Compile Include="ProductOps.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

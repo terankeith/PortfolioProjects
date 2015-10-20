@@ -14,7 +14,7 @@ namespace FlooringProgram.Data.TaxRates
             switch (ConfigurationSettings.GetMode())
             {
                 case "Prod":
-                    return new TaxRateTestRepository();
+                    return new TaxRateFileRepository();
                 case "Test":
                     return new TaxRateTestRepository();
             }

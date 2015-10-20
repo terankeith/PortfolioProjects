@@ -18,8 +18,8 @@ namespace CarDealership.Repositories
                 Model = "Accord",
                 Year = "1996",
                 ImageUrl = @"https://igcdn-photos-e-a.akamaihd.net/hphotos-ak-xpt1/t51.2885-15/10561187_765036253561100_1999913933_n.jpg",
-                Title = "BITCHIN' 96 HONDA ACCORD",
-                Description = "This could be the greatest car of all time. No in fact it is. 110k miles, runs like a dream. Comes with steering wheel, tape deck, and seats. Pearly white-ish. Personally owned by the man himself, Alec Wojo. I can't even believe we're selling it at this low, low price. Why are we doing it? BECAUSE WE'RE CRAZY PEOPLE WITH CRAZY DREAMS!! ACT NOW BEFORE MY BOSS COMES TO HIS SENSES AND TAKES IT OFF THE MARKET!!!!",
+                Title = "Crazy Great 96 HONDA ACCORD",
+                Description = "This could be the greatest car of all time. No in fact it is. 110k miles, runs like a dream. Comes with steering wheel, tape deck, and seats. Pearly white-ish. I can't even believe we're selling it at this low, low price. Why are we doing it? BECAUSE WE'RE CRAZY PEOPLE WITH CRAZY DREAMS!! ACT NOW BEFORE MY BOSS COMES TO HIS SENSES AND TAKES IT OFF THE MARKET!!!!",
                 Price = 10000000M
             },
             new Car()
@@ -30,7 +30,7 @@ namespace CarDealership.Repositories
                 Year = "1999",
                 ImageUrl = @"http://www.curbsideclassic.com/wp-content/uploads/2012/08/DSC00560-1024x768.jpg",
                 Title = "WICKED fast 1999 Toyta Camry",
-                Description = "Do you enjoy the finer things in life? Maybe a glass of Dom Perginon, well aged scotch, and any furniture that are French words? Hell yes you do. And now you've found the car to compliment your luxury tastes. Imagine speeding down the interstate at a whiplash inducing fourty miles an hour as you sip fine artisnal water from the foothills of Tuscany. And you can stay environmentally consious too as the car sips it's own artisnal 87 octane fire juice at a mere rate of 15 miles per gallon. Well, what are you waiting for, champ?",
+                Description = "Do you enjoy the finer things in life? Maybe a glass of Dom Perginon, well aged scotch, and any furniture that are French words? Of COURSE YOU DO! And now you've found the car to compliment your luxury tastes. Imagine speeding down the interstate at a whiplash inducing fourty miles an hour as you sip fine artisnal water from the foothills of Tuscany. And you can stay environmentally consious too as the car sips it's own artisnal 87 octane fire juice at a mere rate of 15 miles per gallon. Well, what are you waiting for, champ?",
                 Price = 5995M
             },
             new Car()

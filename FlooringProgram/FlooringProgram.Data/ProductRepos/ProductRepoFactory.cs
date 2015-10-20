@@ -14,7 +14,7 @@ namespace FlooringProgram.Data.ProductRepos
             switch (ConfigurationSettings.GetMode())
             {
                 case "Prod":
-                    return new ProductTestRepo();
+                    return new ProductFileRepo();
                 case "Test":
                     return new ProductTestRepo();
             }

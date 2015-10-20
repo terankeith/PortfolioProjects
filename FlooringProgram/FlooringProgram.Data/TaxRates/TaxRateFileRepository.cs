@@ -12,7 +12,8 @@ namespace FlooringProgram.Data.TaxRates
         {
             List<TaxRate> rates = new List<TaxRate>();
 
-            string[] data = File.ReadAllLines(@"Data\Taxes.txt");
+            //string[] data = File.ReadAllLines(@"C:\MyMastery\mastery-project\FlooringProgram\FlooringProgram.Tests\Data\Taxes.txt"); // Danny Path
+            string[] data = File.ReadAllLines(@"C:\MasteryProject\FlooringProgram\FlooringProgram.Tests\Data\Taxes.txt");
             for (int i = 1; i < data.Length; i++)
             {
                 string[] row = data[i].Split(',');

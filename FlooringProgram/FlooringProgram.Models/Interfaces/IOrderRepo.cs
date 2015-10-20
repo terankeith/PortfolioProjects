@@ -8,6 +8,6 @@ namespace FlooringProgram.Models.Interfaces
 {
     public interface IOrderRepo
     {
-        List<Order> GetOrders();
+        List<Order> GetOrders(string date);
     }
 }

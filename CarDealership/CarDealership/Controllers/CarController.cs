@@ -10,7 +10,7 @@ namespace CarDealership.Controllers
 {
     public class CarController : Controller
     {
-        ICarRepository _repo = new CodeFirstEFRepository();
+        ICarRepository _repo = new MockCarRepository();
 
         // GET: Car
         public ActionResult Index()

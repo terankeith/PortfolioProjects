@@ -4,10 +4,10 @@
    ViewBag.Title = "Index";
 }
 
-<h2 id="carsh2">Check out these fine, high-quality cars for sale! CLICK FOR DETAILS!</h2>
-<h3><button class="add-link">@Html.ActionLink("Add a car!", "Add")</button></h3> 
+<h2 id="carsh2">Check out these fine, high-quality cars for sale! CLICK FOR DETAILS!</h2> 
+<div class="btn btn-lg">@Html.ActionLink("Click here to add a car!", "Add")</div>
 @if (ViewBag.User != null)
-{
+{ 
     <h3>@ViewBag.User.UserMessage</h3>
 }
 <body class="mainbody">

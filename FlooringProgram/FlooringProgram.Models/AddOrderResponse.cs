@@ -8,7 +8,7 @@ namespace FlooringProgram.Models
 {
     public class AddOrderResponse
     {
-        private bool WasAdded = false;
-        private string text;
+        public bool WasAdded = false;
+        public string text;
     }
 }

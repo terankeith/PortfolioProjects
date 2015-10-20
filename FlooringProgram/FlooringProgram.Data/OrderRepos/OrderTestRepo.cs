@@ -10,7 +10,7 @@ namespace FlooringProgram.Data.OrderRepos
 {
     public class OrderTestRepo : IOrderRepo
     {
-        public List<Order> GetOrders()
+        public List<Order> GetOrders(string name)
         {
             return new List<Order>()
             {

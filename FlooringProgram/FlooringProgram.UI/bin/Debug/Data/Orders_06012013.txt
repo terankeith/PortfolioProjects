@@ -1,2 +1,5 @@
-﻿OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
 1,Wise,OH,6.25,Wood,100.00,5.15,4.75,515.00,475.00,61.88,1051.88
+2,Terence,MI,5.75,Tile,55,3.50,4.15,192.50,228.25,24.193125,444.943125
+3,Charles,IN,6.00,Tile,55,3.50,4.15,192.50,228.25,25.2450,445.9950
+4,Teran,OH,6.25,Tile,52,3.50,4.15,182.00,215.80,24.862500,422.662500
+5,Teran,OH,6.25,Tile,987,3.50,4.15,3454.50,4096.05,471.909375,8022.459375

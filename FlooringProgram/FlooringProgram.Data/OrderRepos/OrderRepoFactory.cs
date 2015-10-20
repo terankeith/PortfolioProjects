@@ -14,7 +14,7 @@ namespace FlooringProgram.Data.OrderRepos
             switch (ConfigurationSettings.GetMode())
             {
                 case "Prod":
-                    return new OrderTestRepo();
+                    return new OrderFileRepo();
                 case "Test":
                     return new OrderTestRepo();
             }
