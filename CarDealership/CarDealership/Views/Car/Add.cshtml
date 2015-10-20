@@ -1,0 +1,58 @@
+﻿@model CarDealership.Models.Car
+
+@{
+    ViewBag.Title = "Add";
+}
+
+<script>
+    $(function () {
+        $('#datething').datepicker();
+        $('#accord').accordion();
+    });
+</script>
+<body class="mainbody">
+    <h2 class="texttitles">Use the form below to <span class="keywords">Add</span> a car!</h2>
+    @using (Html.BeginForm("Add", "Car"))
+    {
+        <div>
+            @Html.ValidationSummary(true)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Make</label><br />
+            @Html.TextBoxFor(x => x.Make)
+            @Html.ValidationMessageFor(x => x.Make)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Model</label><br />
+            @Html.TextBoxFor(x => x.Model)
+            @Html.ValidationMessageFor(x => x.Model)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Year</label><br />
+            @Html.TextBoxFor(x => x.Year)
+            @Html.ValidationMessageFor(x => x.Year)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Image URL</label><br />
+            @Html.TextBoxFor(x => x.ImageUrl)
+            @Html.ValidationMessageFor(x => x.ImageUrl)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Title</label><br />
+            @Html.TextBoxFor(x => x.Title)
+            @Html.ValidationMessageFor(x => x.Title)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Description</label><br />
+            @Html.TextBoxFor(x => x.Description)
+            @Html.ValidationMessageFor(x => x.Description)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Price</label><br />
+            @Html.TextBoxFor(x => x.Price)
+            @Html.ValidationMessageFor(x => x.Price)
+        </div>
+        <button class="btn btn-primary">Submit</button>
+    }
+</body>
+

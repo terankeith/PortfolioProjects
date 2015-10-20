@@ -1,0 +1,15 @@
+C:\classrepo\DotNet-MSP-August-2015-Materials\Mastery\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.dll
+C:\classrepo\DotNet-MSP-August-2015-Materials\Mastery\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.pdb
+C:\classrepo\DotNet-MSP-August-2015-Materials\Mastery\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache
+C:\classrepo\DotNet-MSP-August-2015-Materials\Mastery\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
+C:\classrepo\DotNet-MSP-August-2015-Materials\Mastery\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb
+C:\CodeCampDanny\Mastery\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache
+C:\CodeCampDanny\Mastery\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
+C:\CodeCampDanny\Mastery\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb
+C:\CodeCampDanny\Mastery\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.dll
+C:\CodeCampDanny\Mastery\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.pdb
+C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.dll
+C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\bin\Debug\FlooringProgram.Models.pdb
+C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.csprojResolveAssemblyReference.cache
+C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.dll
+C:\MasteryProject\mastery-project\FlooringProgram\FlooringProgram.Models\obj\Debug\FlooringProgram.Models.pdb

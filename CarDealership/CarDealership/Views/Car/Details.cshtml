@@ -1,0 +1,20 @@
+﻿@model CarDealership.Models.Car
+@{
+    ViewBag.Title = "Details";
+}
+@* we need more details!!! *@
+
+<body class="mainbody">
+    <div class="col-md-6">
+        <p class="attributes">@Model.Title</p>
+        <img width="100%" src="@Model.ImageUrl">
+    </div>
+
+    <div class="col-md-6">
+        <p class="attributes">@Model.Make</p>
+        <p class="attributes">@Model.Model</p>
+        <p class="attributes">@Model.Year</p>
+        <p class="attributes">$@Model.Price</p>
+        <p class="attributes">@Model.Description</p>
+    </div>
+</body>

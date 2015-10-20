@@ -1,0 +1,61 @@
+﻿@model CarDealership.Models.ContactForm
+
+@{
+    ViewBag.Title = "Contact";
+    var items = new List<SelectListItem>(){
+      new SelectListItem() {
+          Text = "6 months",
+          Value = "6"
+      },
+            new SelectListItem() {
+          Text = "12 months",
+          Value = "12"
+      },
+            new SelectListItem() {
+          Text = "24 months",
+          Value = "24"
+      },
+            new SelectListItem() {
+          Text = "36 months",
+          Value = "36"
+      }
+    };
+}
+<h2 class="texttitles">@ViewBag.Title</h2>
+<h3 class="texttitles">@ViewBag.Message</h3>
+<body class="mainbody">
+@using (Html.BeginForm("Sales", "Home", FormMethod.Post))
+{
+    <div>
+        @Html.ValidationSummary(true)
+    </div>
+    <div>
+        <div class="form-group">
+            <label class="texttitles">Name</label><br />
+            @Html.TextBoxFor(m => m.Name)
+            @Html.ValidationMessageFor(m => m.Name)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Phone Number</label><br/>
+            @Html.TextBoxFor(m => m.PhoneNumber)
+            @Html.ValidationMessageFor(m => m.PhoneNumber)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Time frame to purchase a new car</label><br />
+            @Html.DropDownListFor(m => m.PurchaseTimeFrameInMonths, items)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Email</label><br />
+            @Html.TextBoxFor(m => m.Email)
+            @Html.ValidationMessageFor(m => m.Email)
+        </div>
+        <div class="form-group">
+            <label class="texttitles">Income</label><br />
+            @Html.TextBoxFor(m => m.Income)<br/>
+            @Html.ValidationMessageFor(m => m.Income)<br />
+        </div>
+        <div>
+            <button>Submit</button>
+        </div>
+    </div>
+}</body>

@@ -1,0 +1,150 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/******************************************************
+    HOME INDEX               //Yellow Color Hex Value #E59C29
+*******************************************************/
+.mainbody {
+    background-color: #202020;
+}
+.image {
+    position: relative;
+    width: 100%;
+}
+#mainimage {
+    box-shadow: 15px 15px 15px #000;
+}
+
+#homeh2 {
+    position: absolute;
+    top: 200px;
+    left: 0;
+    width: 100%;
+    
+}
+
+h2 span {
+    color: #e59c29;
+    font: bold 24px/45px Helvetica, Sans-Serif; 
+    letter-spacing: -1px;  
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(9, 9, 9, 0.7);
+    padding: 10px; 
+}
+
+h2 span.spacer {
+    padding: 0 5px;
+}
+
+/******************************************************
+    Cars Index
+*******************************************************/
+#carsh2 {
+    color: #e59c29;
+}
+
+.car-image {
+    width:100%;
+    height: 350px;
+    box-shadow: 0px 0px 100px #e59c29;
+}
+
+.add-link {
+    background-color: #e59c29;
+    color: #202020;
+}
+
+
+/******************************************************
+    Car Details
+*******************************************************/
+
+.attributes {
+    color: #e59c29;
+}
+
+
+
+/******************************************************
+    About
+*******************************************************/
+#aboutus {
+    color: #e59c29;
+    font-size: 50px;
+}
+
+.keywords {
+    color: #fff200;
+    font-size: 55px;
+    background-color: #202020;
+}
+
+.car-animation {
+    position: absolute;
+    margin-left: 60px;
+    z-index: 1;
+    animation: drive 8s infinite;
+}
+
+@keyframes drive {
+    0% {
+        transform: translate3d(0px, 0px, 0px);
+    }
+    25% {        
+        transform: translate3d(0px, 660px, 0px)       
+    }    
+    50% {
+        transform: translate3d(175px, 685px, 0px) rotate(180deg); 
+    }
+    75%{
+        transform: translate3d(175px, 0px, 0px) rotate(180deg);
+        
+    }
+    100% {
+        transform: translate3d( 0px, 0px, 0px) rotate(-0deg);
+    }
+}
+
+
+
+/******************************************************
+    Contact & Add
+*******************************************************/
+
+.field-validation-error {
+    color: red;
+}
+
+.input-validation-error {
+    background-color: red;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.texttitles {
+    color: #e59c29;
+}
+
+
+
+
